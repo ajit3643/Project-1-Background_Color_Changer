@@ -1,4 +1,6 @@
-
+// DOM 
+// Events
+// For-each
 const button = document.querySelectorAll('.box');
 const body = document.querySelector("body");
 
