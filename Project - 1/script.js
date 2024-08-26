@@ -20,6 +20,6 @@ button.forEach(function(box){
             body.style.backgroundColor ="#D24545";
         }
         
-    })
+    });
 
-})
+});
